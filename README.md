@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **JavaScript, Python and ChatGPT**
 
-- 📫 How to reach me **hong1234day@gmail.com**
+- 📫 Reach me by **hong1234day@gmail.com**
 
-- ⚡ Fun fact **I feel a sense of ennui with the world. 🌍😕 But hey, maybe the universe just needs to tell me a good joke!**
+- ⚡ Fun fact that **I feel a sense of ennui with the world. 🌍😕 But hey, maybe the universe just needs to tell me a good joke!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
