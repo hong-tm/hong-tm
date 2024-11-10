@@ -12,3 +12,7 @@
 <p align="left">
 <a href="https://twitter.com/hong1234day" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hong1234day" height="30" width="40" /></a>
 </p>
+
+<h3>Listening: </h3>
+
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=zy7k6avygj7346i7a7on8huuh&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
