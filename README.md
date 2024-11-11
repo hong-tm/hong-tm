@@ -15,7 +15,7 @@
 
 <h3>Listening:</h3>
 <div style="display: flex; justify-content: space-between; align-items: flex-start; gap: 100px;">
-  <a href="https://github.com/kittinan/spotify-github-profile">
+  <a >
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=zy7k6avygj7346i7a7on8huuh&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" alt="Spotify Profile">
   </a>
   <a href="https://www.last.fm/user/hong1234day">
