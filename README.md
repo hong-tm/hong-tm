@@ -22,3 +22,9 @@
     <img src="https://lastfm-recently-played.vercel.app/api?user=hong1234day&loved=true&show_user=footer&count=7" alt="Last.fm Profile">
   </a>
 </div>
+
+<h3>Aifadian</h3>
+<p>
+  <a href="https://afdian.com/a/h1789" target="blank">hong-tm</a>
+</p>
+
