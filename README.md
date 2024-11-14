@@ -23,7 +23,7 @@
   </a>
 </div>
 
-<h3>Aifadian</h3>
+<h3>爱发电</h3>
 <p>
   <a href="https://afdian.com/a/h1789" target="blank">hong-tm</a>
 </p>
