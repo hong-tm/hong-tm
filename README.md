@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hong</h1>
 <h3 align="center">I am a degree student in computer science, currently navigating the exciting challenges of Web Development. 🚀</h3>
 
-- 🌱 I’m currently learning **TypeScript, JavaScript framework and ChatGPT**
+- 🌱 I’m currently learning **TypeScript, JavaScript, React, Hono, Tanstack Query and more**
 
 - 📫 Reach me by **hong1234day@gmail.com**
 
