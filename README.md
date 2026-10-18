@@ -23,6 +23,10 @@
   </a>
 </div>
 
+<h3>AI token usage</h3>
+
+[![Tokscale Stats](https://tokscale.ai/api/embed/hong-tm/svg?color=green&graph=1&tokens=full&cost=full)](https://tokscale.ai/u/hong-tm)
+
 <h3>Sponsorship/爱发电</h3>
 <p>
   <a href="https://afdian.com/a/h1789" target="blank">hong-tm</a>
